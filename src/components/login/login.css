@@ -1,0 +1,41 @@
+.user-img{
+    width: 160px;
+    height: 160px;
+    margin-top: -55px;
+    margin-bottom: 30px;
+}
+
+.padre{
+    border-radius: 15px;
+    margin-top: 30%;
+}
+
+.principal{
+    margin: 0 auto;
+    margin-top: 20%;
+    opacity: .90 ;
+
+
+}
+
+.modal-content{
+    background-color: lightcyan;
+    
+}
+
+.user{
+    font-size: 30px;
+    color: dodgerblue;
+}
+
+.pass{
+    font-size: 30px;
+    color:dodgerblue;
+}
+
+.a{
+    border-radius: 10px;
+}
+.b{
+    border-radius: 10px;
+}
